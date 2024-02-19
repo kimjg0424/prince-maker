@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.makers.prince-maker.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.makers.prince-maker.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.makers.prince-maker.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.makers.prince-maker.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/prince-maker.iml" filepath="$PROJECT_DIR$/.idea/prince-maker.iml" />
+    </modules>
+  </component>
+</project>
